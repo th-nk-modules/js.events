@@ -1,7 +1,8 @@
 /**
- * Events module
- * @module events
- */
+* Events module
+* @module events
+* @global
+*/
 var events = {
     /**
     * Bind event to element
